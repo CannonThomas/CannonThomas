@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Avid Ken Carson enjoyer
 
 <!---
