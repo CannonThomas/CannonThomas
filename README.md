@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Ken Carson is the goat right now
+- ⚡ Fun fact: Avid Ken Carson enjoyer
 
 <!---
 CannonThomas/CannonThomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
