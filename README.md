@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything computer engineering
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me ...
+- 📫 How to reach me cannthom@ttu.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Avid Ken Carson enjoyer
 
