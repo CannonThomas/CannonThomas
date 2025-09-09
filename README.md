@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me cannthom@ttu.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Avid Ken Carson enjoyer
+- ⚡ Fun fact: Playboi Carti enjoyer
 
 <!---
 CannonThomas/CannonThomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
