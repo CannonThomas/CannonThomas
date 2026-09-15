@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @CannonThomas
 - 👀 I’m interested in anything computer engineering
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on nothing right now
+- 💞️ I’m looking to collaborate on anything right now
 - 📫 How to reach me cannthom@ttu.edu
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Playboi Carti enjoyer
 
 <!---
 CannonThomas/CannonThomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
