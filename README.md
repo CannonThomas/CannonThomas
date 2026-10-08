@@ -1,6 +1,6 @@
-I’m @CannonThomas
-I’m interested in anything computer engineering
-📫 How to reach me cannthom@ttu.edu
+- I’m @CannonThomas
+- I’m interested in anything computer engineering
+- 📫 How to reach me cannthom@ttu.edu
 
 <!---
 CannonThomas/CannonThomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
